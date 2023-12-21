@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prac3</string>
+    <string name="alt">Здесь картинка с фурионом</string>
+    <string name="name">Ваше имя</string>
+    <string name="tetx">Здесь будет твой привет</string>
+    <string name="qq">Сюда имя для привета</string>
+</resources>
